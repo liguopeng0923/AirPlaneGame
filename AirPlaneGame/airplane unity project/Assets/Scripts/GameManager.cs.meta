@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 63d0fbc4d1ff842418d4ba510fc8d228
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bgImage1: {instanceID: 0}
+  - bgImage2: {instanceID: 0}
+  - bgMusic: {instanceID: 0}
+  - selfPlaneButton: {instanceID: 0}
+  - enemyPlane: {instanceID: 0}
+  - Billet: {fileID: 668096639565612672, guid: ff923c90f71bc8e4cb25f6e27fbffeef, type: 3}
+  - gameOver: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
